@@ -1,0 +1,12 @@
+# Virtual Environment
+myvenv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Environment Variables (Secrets)
+.env
+
+# Django Local Database (if you use SQLite before connecting PostgreSQL)
+db.sqlite3
